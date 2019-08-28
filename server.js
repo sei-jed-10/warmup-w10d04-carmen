@@ -43,7 +43,8 @@ mongoose.connect(mongoURI, { useNewUrlParser: true }, () => {
 
 // -- Clue #7: She knows we're on to her – her taxi dropped her off at the international airport, and she beat us to
 //  -- the boarding gates. We have one chance to catch her, we just have to know where she's heading and beat her to the
-//  -- landing dock. Lucky for us, she's getting cocky. She left us a note, and I'm sure she thinks she's very clever, but
+//  -- landing dock. Lucky for us, an informant told us that she couldn't afford a long distance ticket! Where ever she is, it has to be close! 
+// -- And she's getting cocky. She left us a note, and I'm sure she thinks she's very clever, but
 // -- if we can crack it, we can finally put her where she belongs – behind bars.
 
 // -- Our playdate of late has been unusually fun –

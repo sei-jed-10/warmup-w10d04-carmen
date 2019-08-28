@@ -28413,6 +28413,13 @@
             "name" : "Cary",
             "population" : 91213
           },
+           {
+            "district" : "Trabzon",
+            "cityId" : 4080,
+            "countrycode" : "TUR",
+             "name": "Uzungol",
+            "population" : 91084
+          },
           {
             "district" : "California",
             "cityId" : 4060,
