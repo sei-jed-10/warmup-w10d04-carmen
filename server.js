@@ -114,7 +114,7 @@ mongoose.connect(mongoURI, { useNewUrlParser: true }, () => {
 //     db.close();
 // });
 
-///////// above method will give us two cities one in the USA and the other in Turkey,  /////////
+///////// the above method will give us two cities one in the USA and the other in Turkey,  /////////
 ///////// since our previous clue pointed us to brazil we can tell that USA is closer than turkey to where we are /////////
 ///////// so the final answer is "Santa Monica" /////////
 
